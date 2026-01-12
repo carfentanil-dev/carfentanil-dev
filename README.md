@@ -1,8 +1,4 @@
-<style>
-  img { width: 50px; height: 50px; }
-</style>
-
-
+style="width:50px;height:50px;margin:6px;"
 
 # Hi 👋, I'm Saleh Hidayatli
 
