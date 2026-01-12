@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Salam, mən Sənin Adın
 
-<!--
-**carfentanil-dev/carfentanil-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Lover;Always+Learning)
 
-Here are some ideas to get you started:
+## 🚀 Haqqımda
+- 💻 Web & Software Developer
+- 🌱 Hal-hazırda: React / Node
+- ⚡ Fun fact: Code + Coffee = ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Texnologiyalar
+<img src="https://skillicons.dev/icons?i=js,react,node,python,git" />
+
+## 📊 GitHub Statlarım
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
