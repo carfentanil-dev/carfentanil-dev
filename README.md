@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Lover;Always+Learning)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carfentanil-dev&label=Profile views&color=0e75b6&style=flat" alt="carfentanil-dev" /> </p>
-
 - 🔭 I'm currently working on **a vue3 project**
 
 - 🌱 I'm currently learning **angular and typescript**
