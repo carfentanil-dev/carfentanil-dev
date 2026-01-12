@@ -3,19 +3,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Lover;Always+Learning)
 
 <h2>🔭 I'm currently working on</h2>
--  **a vue3 project**
+- **a vue3 project**
 
 <h2>🌱 I'm currently learning</h2>
--  **angular and typescript**
+- **angular and typescript**
 
 <h2>💬 Ask me about</h2>
--  **react node js vue next js and web development**
+- **react, node js, vue, next js and web development**
 
 <h2>📫 How to reach me</h2>
--  **byebyeworldd@gmail.com**
+- **byebyeworldd@gmail.com**
 
 <h2>⚡ Fun fact</h2>
--  **I didnt write anything for fun fact**
+- **I didn’t write anything for fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
